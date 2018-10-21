@@ -1,2 +1,2 @@
-# aws-vpn-instance
-dockerfile for image running strongswan vpn in aws
+# docker-strongswan
+dockerfile for image running strongswan vpn in docker container
